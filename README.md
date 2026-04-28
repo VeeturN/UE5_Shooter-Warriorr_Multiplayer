@@ -2,14 +2,13 @@
 
 This project, developed in **Unreal Engine 5**, effectively combines two different games within a single repository. It originated as a solo learning project to master the engine's fundamentals and was subsequently expanded into a functional multiplayer shooter.
 
+## 📺 Project Showcase
+[![Watch the video](ścieżka/do/twojego/animowanego.gif)](https://www.youtube.com/watch?v=bvegHTV0H2o)
+*Click the animation to watch the full gameplay on YouTube.*
+
 ## 🎮 About the Project
 
 The project is divided into two primary modules:
-
-## 📺 Project Showcase
-Check out the project in action:
-[![UE5 Shooter & Warrior Multiplayer Showcase](https://img.youtube.com/vi/bvegHTV0H2o/0.jpg)](https://www.youtube.com/watch?v=bvegHTV0H2o)
-*Click the image above to watch the gameplay demonstration.*
 
 ### 1. Online Shooter (Multiplayer)
 A functional multiplayer shooter built using UE5's native networking architecture.
