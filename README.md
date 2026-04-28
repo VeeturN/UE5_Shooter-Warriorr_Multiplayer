@@ -6,6 +6,11 @@ This project, developed in **Unreal Engine 5**, effectively combines two differe
 
 The project is divided into two primary modules:
 
+## 📺 Project Showcase
+Check out the project in action:
+[![UE5 Shooter & Warrior Multiplayer Showcase](https://img.youtube.com/vi/bvegHTV0H2o/0.jpg)](https://www.youtube.com/watch?v=bvegHTV0H2o)
+*Click the image above to watch the gameplay demonstration.*
+
 ### 1. Online Shooter (Multiplayer)
 A functional multiplayer shooter built using UE5's native networking architecture.
 * **Network Replication:** Full multiplayer support, including synchronization of player states, projectiles, and movement.
